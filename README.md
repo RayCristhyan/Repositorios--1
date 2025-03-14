@@ -1,1 +1,4 @@
-Dev iniciante, começando a estuadar com as aulas do gustavo guanabara. (js,hmtl,css)
+# Dev Inicante
+## Aluno do gustavo guanabara
+
+Olá,Este é o meu **primeiro** repositorio feito com as aulas *GRATUITAS* Do Curso em Video!
