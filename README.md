@@ -12,3 +12,6 @@ Olá,Este é o meu **primeiro** repositorio feito com as aulas *GRATUITAS* Do Cu
 ![rounded-in-photoretrica](https://github.com/user-attachments/assets/5d6ff55f-d75c-42e6-a500-b6e692a90c88)
 
 
+
+
+
